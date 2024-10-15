@@ -16,9 +16,13 @@ Enter in your team name!
 ### Open up the branch in your browser
 ![image](https://github.com/user-attachments/assets/54c61485-27f5-4a24-92d4-3947e0f0b8c0)
 Make sure the name shows up in these two places!
-### Clone as normal to VSCode/other IDEs
+### Clone as normal to VSCode/other IDEs OR code directly in GitHub if you don't have an editor set up
 Let us know if you have any questions!
 ## Stuff to Consider Changing
+- Fonts - Size, Style, Color
+- Background - Color, Image
+- And more!!
+
 
 
 
